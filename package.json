@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/premananthK/portal#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "nexmo": "^2.3.0",
+    "textmagic-rest-client": "^1.0.10"
   }
 }
